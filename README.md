@@ -1,2 +1,2 @@
-# KNVISION opencv team project
+# OpenCV
 k-sw opencv team3 project
